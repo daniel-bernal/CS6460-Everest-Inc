@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/_preload.unity
+    guid: 799b84a58cdcdbc4e95e1648289a0373
+  - enabled: 1
+    path: Assets/_Scenes/StartMenu.unity
+    guid: 78d3706177f74514381f55a1cc7d9b33
+  - enabled: 1
+    path: Assets/_Scenes/BaseCamp.unity
+    guid: 7a9c45b46bf6ba7419825396d0708d7e
+  - enabled: 1
+    path: Assets/_Scenes/LoadingScreen.unity
+    guid: 6203f7af048223e4da5c22b36646a581
+  - enabled: 1
+    path: Assets/_Scenes/CampI.unity
+    guid: 79bc3b30707058c47aafcd5778e44011
+  - enabled: 1
+    path: Assets/_Scenes/CampII.unity
+    guid: a8e6518f88d794d4ca030e8dc5504d61
+  - enabled: 1
+    path: Assets/_Scenes/CampIII.unity
+    guid: d471c4e99e3637740b58c96656063a31
+  - enabled: 1
+    path: Assets/_Scenes/CampIV.unity
+    guid: 58f8c29350eba6044a48f2b7c01fdb73
+  - enabled: 1
+    path: Assets/_Scenes/Summit.unity
+    guid: 386b4241f9678564fb5016bbdd92e841
+  - enabled: 1
+    path: Assets/_Scenes/Permits.unity
+    guid: 58fc1a6ea0bf4ad48b12b5fb2ec63240
+  - enabled: 1
+    path: Assets/_Scenes/Recruitment.unity
+    guid: 2afa9e5ff2df9fc43bb27e9c188e8744
+  - enabled: 1
+    path: Assets/_Scenes/Supply.unity
+    guid: 0a96483ad34d9904c80773a2597b6478
+  - enabled: 1
+    path: Assets/_Scenes/WelcomeScreen.unity
+    guid: f7a3e80274e82fc4eaab3fa3671c79f8
+  - enabled: 1
+    path: Assets/_Scenes/Team.unity
+    guid: 24089bf63cfe5e14382ce1eb1183d35d
+  - enabled: 1
+    path: Assets/_Scenes/AvailableContracts.unity
+    guid: 466e205ff14207a47b9329c5a53995a7
+  - enabled: 1
+    path: Assets/_Scenes/Expedition.unity
+    guid: f4ed92696dfbe964a90d86f28324f343
